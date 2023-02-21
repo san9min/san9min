@@ -14,7 +14,7 @@
     My name is <b>Sangmin Lee</b> :)
 </p>
 <!--<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kdha0727&style=flat-square&label=Profile%20Views" alt="Counter" />
+    <img src="https://komarev.com/ghpvc/?username=san9min&style=flat-square&label=Profile%20Views" alt="Counter" />
 </p>-->
 <h4 align="center">
     Find Me 🔎
@@ -57,7 +57,7 @@
 
 ### 🏫 Extracurricular Activities
 
-* **[YAI](https://github.com/yonsei-YAI)** (AI Conference in [Yonsei Univ. Engineering]) `2022.1. ~ 2024.2.`
+* **[YAI](https://github.com/yonsei-YAI)** (AI Conference in Yonsei Univ) `2022.1. ~ 2024.2.`
 
 
 ### ⚙ Project Experiences
