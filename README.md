@@ -65,10 +65,7 @@
 * Updating...
 
 <!-- markdown section end -->
-<!-- markdown section start -->
-[Yonsei Univ. Medicine]: https://medicine.yonsei.ac.kr/
-[Yonsei Univ. Engineering]: https://engineering.yonsei.ac.kr/
-<!-- markdown section end -->
+
 <hr/>
 <br>
 </details>
@@ -91,9 +88,6 @@
 </a>
 <a href="https://pytorch.org/">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" />
 </a>
 </p>
 <!-- markdown section start -->
