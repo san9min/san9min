@@ -126,18 +126,6 @@
 <!-- BODY 2 END -->
 
 
-<!-- GITHUB WIDGETS START -->
-<h3 align="center">Github stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=san9min&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=false&locale=en" alt="Github Stats" />
-</p>
-<h3 align="center">Most Common Languages</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san9min&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Langs" />
-</p>
-<br>
-<!-- GITHUB WIDGETS END -->
-
 
 <!-- FOOTER START -->
 <p align="center"><a href="#">
