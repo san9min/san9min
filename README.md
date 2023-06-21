@@ -89,6 +89,9 @@
 <a href="https://pytorch.org/">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </a>
+<a href="https://flutter.dev/">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
 </p>
 <!-- markdown section start -->
 
