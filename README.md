@@ -98,7 +98,7 @@
 
 <p align="center">
 <a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F39F86,F3D686&" alt="san9min/TimeSeriesAnomalyDetection" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F3D686,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
 </a>
 </p>
 
