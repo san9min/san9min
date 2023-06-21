@@ -64,7 +64,7 @@
 
 * Updating...
 
-<h4 align="center"> POZAlabs 🎵 </h4>
+<h4 align="center"> Midi-data Modification based on Diffusion Model 🎵 </h4>
 
 <p align="center">
 <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
@@ -72,7 +72,7 @@
 </a>
 </p>
 
-<h4 align="center"> Studio YAIVERSE 🧊 </h4>
+<h4 align="center"> 3D Generation & Augmented Reality 🧊 </h4>
 
 <p align="center">
 🏅 Special Award from
@@ -87,18 +87,18 @@
 </a>
 </p>
 
-<h4 align="center"> YAIverse★ 🥸 </h4>
+<h4 align="center"> Styled Avatar Generation 🥸 </h4>
 <p align="center">
 <a href="https://github.com/minsu1206/YAIVERSE">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=YAIVERSE&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,8866AB,6667AB&" alt="YAIVERSE" />
 </p>
 
     
-<h4 align="center">Reinforce Learning 🔍</h4>
+<h4 align="center"> Time Seires Anomlay Detection based on RL 🔍</h4>
 
 <p align="center">
 <a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F3D686,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F39F86,F3D686&" alt="san9min/TimeSeriesAnomalyDetection" />
 </a>
 </p>
 
