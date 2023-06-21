@@ -64,6 +64,44 @@
 
 * Updating...
 
+<h4 align="center"> POZAlabs 🎵 </h4>
+
+<p align="center">
+<a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,634FE1,416CB3&" alt="YAIxPOZAlabs/MuseDiffusion" />
+</a>
+</p>
+
+<h4 align="center"> Studio YAIVERSE 🧊 </h4>
+
+<p align="center">
+🏅 Special Award from
+<a href = https://rebuilderai.com/>
+    <b> RebuilderAI </b>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/studio-YAIVERSE/studio-YAIVERSE">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=studio-YAIVERSE&repo=studio-YAIVERSE&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,BB2694,BB2649&" alt="studio-YAIVERSE" />
+</a>
+</p>
+
+<h4 align="center"> YAIverse★ 🥸 </h4>
+<p align="center">
+<a href="https://github.com/minsu1206/YAIVERSE">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=YAIVERSE&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,8866AB,6667AB&" alt="YAIVERSE" />
+</p>
+
+    
+<h4 align="center">Reinforce Learning 🔍</h4>
+
+<p align="center">
+<a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F3D686,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
+</a>
+</p>
+
 <!-- markdown section end -->
 
 <hr/>
