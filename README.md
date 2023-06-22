@@ -57,7 +57,7 @@
 
 ### 🏫 Extracurricular Activities
 
-* **[YAI](https://github.com/yonsei-YAI)** (AI Conference in Yonsei Univ) `2022.1. ~ 2023.6.`
+* @ **[YAI](https://github.com/yonsei-YAI)** (AI Conference in Yonsei Univ) `2022.1. ~ 2023.6.`
 
 
 ### ⚙ Project Experiences
