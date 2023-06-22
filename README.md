@@ -82,7 +82,7 @@
 <h4 align="center"> 3D Generation & Augmented Reality 🧊 </h4>
 
 <p align="center">
-🏅 Special Award from @
+@
 <a href = https://rebuilderai.com/>
     <b> RebuilderAI </b>
 </a>
