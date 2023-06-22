@@ -57,7 +57,7 @@
 
 ### 🏫 Extracurricular Activities
 
-* **[YAI](https://github.com/yonsei-YAI)** (AI Conference in Yonsei Univ) `2022.1. ~ 2024.2.`
+* **[YAI](https://github.com/yonsei-YAI)** (AI Conference in Yonsei Univ) `2022.1. ~ 2023.6.`
 
 
 ### ⚙ Project Experiences
@@ -66,6 +66,13 @@
 
 <h4 align="center"> Midi-data Modification based on Diffusion Model 🎵 </h4>
 
+<p align="center">  
+@ 
+<a href = https://pozalabs.com/>
+<b> POZAlabs </b>
+</a>
+</p>
+ 
 <p align="center">
 <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,634FE1,416CB3&" alt="YAIxPOZAlabs/MuseDiffusion" />
@@ -75,7 +82,7 @@
 <h4 align="center"> 3D Generation & Augmented Reality 🧊 </h4>
 
 <p align="center">
-🏅 Special Award from
+🏅 Special Award from @
 <a href = https://rebuilderai.com/>
     <b> RebuilderAI </b>
 </a>
