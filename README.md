@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     </a>
     <a href="https://san9min.notion.site/Sangmin-9e7139bcc67242c6bfc44624872da811?pvs=4">
-         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label="/>
+         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=white&logo=Notion&logoColor=000000&label="/>
     </a>
     
 </p>
