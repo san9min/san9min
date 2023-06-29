@@ -94,7 +94,7 @@
 </a>
 </p>
 
-<h4 align="center"> Styled Avatar Generation 🥸 </h4>
+<h4 align="center"> Cartoon Avatar Generation 🥸 </h4>
 <p align="center">
 <a href="https://github.com/minsu1206/YAIVERSE">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=YAIVERSE&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,8866AB,6667AB&" alt="YAIVERSE" />
