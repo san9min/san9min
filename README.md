@@ -109,6 +109,16 @@
 </a>
 </p>
 
+
+<h4 align="center"> Real Time Korean ASR 🗣️</h4>
+
+<p align="center">
+<a href="https://github.com/SUNGBEOMCHOI/Korean-Streaming-ASR.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SUNGBEOMCHOI&repo=Korean-Streaming-ASR&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,6df6ea,00ef91&" alt="Korean-Streaming-ASR" />
+</a>
+</p>
+
+
 <!-- markdown section end -->
 
 <hr/>
