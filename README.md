@@ -77,13 +77,6 @@
 
 
 <h4 align="center"> Midi-data Modification based on Diffusion Model 🎵 </h4>
-
-<p align="center">  
-@ 
-<a href = https://pozalabs.com/>
-<b> POZAlabs </b>
-</a>
-</p>
  
 <p align="center">
 <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
@@ -92,13 +85,6 @@
 </p>
 
 <h4 align="center"> 3D Generation & Augmented Reality 🧊 </h4>
-
-<p align="center">
-@
-<a href = https://rebuilderai.com/>
-    <b> RebuilderAI </b>
-</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/studio-YAIVERSE/studio-YAIVERSE">
