@@ -53,7 +53,7 @@
     
 ### 🎓 Education
     
-* Undergraduate: **Yonsei University** College of Science, Physics, Seoul. `2018.3. ~ 2024.2.`
+* Graduate: **Yonsei University** College of Science, Physics, Seoul. `2018.3. ~ 2025.8.`
 
 ### 🏫 Extracurricular Activities
 
