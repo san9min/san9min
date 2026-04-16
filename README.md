@@ -65,8 +65,9 @@
 * Updating...
 
 <h4 align="center"> Gemma2-2b-it Post-training </h4>
-
- 
+<p align="center">
+🏆 Honorable Mention @Google Cloud
+ </p>
 <p align="center">
 <a href="https://github.com/san9min/tunix-hack.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=tunix-hack&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,06B6D4,1E40AF" alt="san9min/tunix-hack" />
