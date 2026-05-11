@@ -117,6 +117,13 @@
 </a>
 </p>
 
+<h4 align="center"> End-to-End OCR 📝</h4>
+
+<p align="center">
+<a href="https://github.com/san9min/E2E_OCR">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=E2E_OCR&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F97316,EF4444&" alt="E2E_OCR" />
+</a>
+</p>
 
 <h4 align="center"> Deep Hedging (Financial Engineering) 📈</h4>
 
