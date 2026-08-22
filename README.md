@@ -20,15 +20,15 @@
     Find Me 🔎
 </h4>
 <p align="center">
-    <a href="mailto:sangmin23@yonsei.ac.kr">
+    <a href="mailto:sangmin09.lee@gmail.com">
         <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/san9min">
         <img src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
     </a>
-    <a href="https://san9min.notion.site/Sangmin-9e7139bcc67242c6bfc44624872da811?pvs=4">
+    <!-- <a href="https://san9min.notion.site/Sangmin-9e7139bcc67242c6bfc44624872da811?pvs=4">
          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=white&logo=Notion&logoColor=000000&label="/>
-    </a>
+    </a> -->
     
 </p>
 <h4 align="center">
@@ -37,9 +37,6 @@
 <p align="center">
     <a href="#"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /></a>
     <a href="#"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>
-    <a href="#"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /></a>
-    <a href="#"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></a>
-    <a href="#"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></a>
 </p>
 <br>
 <br>
